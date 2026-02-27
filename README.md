@@ -2,21 +2,31 @@
 
 Este repositorio resume las competencias técnicas adquiridas a través de formación avanzada en Ciencia de Datos, Machine Learning, Estadística Aplicada, SQL, Cloud Computing y Big Data.
 
-El enfoque de esta formación está orientado a habilidades de alto impacto económico y aplicabilidad en entornos empresariales reales.
+El enfoque está orientado a habilidades de alto impacto económico, aplicables a entornos empresariales reales y sistemas analíticos en producción.
 
 ---
 
 ## 1️⃣ Gestión de Proyectos de Análisis de Datos
 
-- Ciclo de vida completo de proyectos de datos
-- Metodologías ágiles aplicadas a analítica
-- Planificación y estimación de recursos
-- Identificación y mitigación de riesgos
-- Documentación técnica y reproducibilidad
-- Reportes ejecutivos y comunicación con stakeholders
+- Diseño del ciclo de vida completo de proyectos analíticos (pipeline end-to-end)
+- Aplicación de metodologías ágiles en ciencia de datos
+- Planificación, estimación y seguimiento de entregables
+- Identificación y mitigación de riesgos técnicos
+- Documentación técnica y reportes ejecutivos
+- Control de versiones y trabajo colaborativo
+- Gestión de entornos virtuales y dependencias
+- Estructuración modular de soluciones reproducibles
 
-Enfoque profesional:
-Diseño y gestión estructurada de soluciones analíticas orientadas a producción.
+Herramientas utilizadas:
+Git, GitHub, Python, entornos virtuales (Conda/Miniforge), VS Code, Jupyter Notebook.
+
+Aplicaciones en negocio:
+- Implementación estructurada de modelos predictivos
+- Gestión de proyectos de analítica en banca, retail o industria
+- Coordinación entre equipos técnicos y gerenciales
+- Reducción de errores por falta de control de versiones
+- Desarrollo de soluciones analíticas listas para producción
+- Estandarización de procesos de ciencia de datos en organizaciones
 
 ---
 
@@ -26,16 +36,27 @@ Diseño y gestión estructurada de soluciones analíticas orientadas a producci�
 - Modelos de regresión y clasificación
 - Bias-Variance tradeoff
 - Validación cruzada (K-Fold)
-- Grid Search y ajuste de hiperparámetros
+- Grid Search y tuning de hiperparámetros
 - Regularización (Ridge, Lasso)
 - Árboles de decisión, Random Forest, Gradient Boosting, XGBoost
 - Support Vector Machines (SVM)
 - Redes neuronales y CNN
 - Transfer Learning y fine-tuning
-- Evaluación de modelos (ROC-AUC, Precision-Recall, RMSE)
+- Evaluación con ROC-AUC, Precision-Recall, RMSE
 
-Enfoque profesional:
-Construcción de sistemas predictivos para riesgo crediticio, churn, fraude y optimización de ingresos.
+Herramientas utilizadas:
+Scikit-learn, XGBoost, TensorFlow/Keras, NumPy, Pandas, Matplotlib, Seaborn.
+
+Aplicaciones en negocio:
+- Modelos de riesgo crediticio
+- Predicción de churn
+- Detección de fraude
+- Sistemas de scoring automatizado
+- Optimización de campañas comerciales
+- Pricing dinámico
+- Segmentación avanzada de clientes
+- Detección temprana de eventos críticos
+- Automatización de decisiones operativas
 
 ---
 
@@ -45,29 +66,55 @@ Construcción de sistemas predictivos para riesgo crediticio, churn, fraude y op
 - Intervalos de confianza
 - Pruebas de hipótesis
 - ANOVA
-- Regresión lineal (simple y múltiple)
-- Regresión logística
+- Regresión lineal y logística
 - Interpretación de coeficientes y Odds Ratio
 - Cuantificación de riesgo y pérdida esperada
 
-Enfoque profesional:
-Toma de decisiones cuantitativa bajo incertidumbre y validación estadística de estrategias de negocio.
+Herramientas utilizadas:
+Python (NumPy, SciPy, Statsmodels), Pandas.
+
+Aplicaciones en negocio:
+- Evaluación de impacto de estrategias comerciales
+- A/B testing en productos digitales
+- Análisis de riesgo financiero
+- Validación estadística de decisiones ejecutivas
+- Proyección de indicadores económicos
+- Modelado probabilístico de impago
+- Evaluación de incertidumbre en pronósticos
+- Análisis de sensibilidad en escenarios estratégicos
 
 ---
 
 ## 4️⃣ Visualización de Información y Visual Analytics
 
-- Diseño de dashboards basados en KPIs
+- Diseño de dashboards basados en KPIs estratégicos
 - Principios de percepción visual aplicada a datos
+- Storytelling ejecutivo con datos
 - Visualización de series temporales
 - Visualización geoespacial (mapas coropléticos, mapas de calor)
 - Análisis espacio-temporal
-- Dashboards interactivos
-- Storytelling estratégico con datos
+- Dashboards interactivos con filtros dinámicos
+- Proceso KDD (Knowledge Discovery in Databases)
+- Reglas de asociación (Apriori)
+- Soporte, confianza y lift
 - Data mining
+- Market Basket Analysis
+- Clustering (K-Means, jerárquico, DBSCAN)
+- Identificación de patrones frecuentes y anomalías
 
-Enfoque profesional:
-Comunicación ejecutiva de insights y monitoreo estratégico del desempeño organizacional.
+Herramientas utilizadas:
+Matplotlib, Seaborn, Plotly, GeoPandas, Scikit-learn.
+
+Aplicaciones en negocio:
+- Descubrimiento de oportunidades de cross-selling
+- Análisis de canasta de mercado
+- Segmentación estratégica de clientes
+- Identificación de patrones ocultos de comportamiento
+- Monitoreo regional de desempeño
+- Visualización de exposición al riesgo
+- Análisis geográfico de expansión comercial
+- Detección de anomalías operativas
+- Comunicación ejecutiva de insights complejos
 
 ---
 
@@ -77,13 +124,21 @@ Comunicación ejecutiva de insights y monitoreo estratégico del desempeño orga
 - Diseño modular y reutilización de código
 - Manipulación avanzada con Pandas
 - Álgebra lineal con NumPy
-- Reglas de asociación (Apriori)
 - Fundamentos de NLP
 - Análisis básico de grafos
-- Optimización con OR-Tools (LP, MIP, VRP)
+- Optimización con programación lineal y entera
 
-Enfoque profesional:
-Construcción de pipelines analíticos escalables y sistemas de optimización bajo restricciones reales.
+Herramientas utilizadas:
+Python, Pandas, NumPy, NetworkX, OR-Tools.
+
+Aplicaciones en negocio:
+- Automatización de procesos analíticos
+- Limpieza y transformación de bases masivas
+- Análisis exploratorio estructurado
+- Optimización de rutas y recursos
+- Modelado de redes de clientes o fraude
+- Procesamiento de texto para análisis de sentimiento
+- Construcción de pipelines de datos escalables
 
 ---
 
@@ -92,11 +147,20 @@ Construcción de pipelines analíticos escalables y sistemas de optimización ba
 - Descomposición de tendencia y estacionalidad
 - Modelos de pronóstico
 - Comparación intertemporal
-- Análisis de evolución de KPIs
-- Técnicas de forecasting aplicadas a demanda y ventas
+- Evaluación de evolución de KPIs
+- Técnicas de forecasting aplicadas a demanda
 
-Enfoque profesional:
-Pronóstico de demanda, proyección de ingresos y monitoreo temporal de indicadores estratégicos.
+Herramientas utilizadas:
+Pandas, Statsmodels, Scikit-learn, Matplotlib.
+
+Aplicaciones en negocio:
+- Pronóstico de ventas
+- Proyección de demanda logística
+- Planeación de inventarios
+- Evaluación de crecimiento regional
+- Análisis de ciclos económicos
+- Monitoreo de indicadores financieros
+- Planeamiento presupuestario
 
 ---
 
@@ -107,23 +171,39 @@ Pronóstico de demanda, proyección de ingresos y monitoreo temporal de indicado
 - Window functions
 - Agregaciones y análisis agrupado
 - Optimización de consultas
-- Construcción de variables (feature engineering) en SQL
-- Modelado relacional de datos
+- Feature engineering en SQL
+- Modelado relacional
 
-Enfoque profesional:
-Extracción y transformación eficiente de datos en bases empresariales reales.
+Herramientas utilizadas:
+SQL (consultas avanzadas en entornos académicos y empresariales).
+
+Aplicaciones en negocio:
+- Construcción de variables para modelos predictivos
+- Integración de datos transaccionales
+- Análisis de comportamiento de clientes
+- Generación de reportes financieros
+- Procesamiento de grandes volúmenes de datos estructurados
+- Automatización de consultas estratégicas
 
 ---
 
 ## 8️⃣ Cloud Computing y Big Data
 
-- Principios de arquitectura de datos en la nube
+- Arquitectura de datos en la nube
 - Data Lake vs Data Warehouse
 - Procesamiento distribuido
-- Pipelines escalables de datos
+- Pipelines escalables
 - Workflows modulares de Machine Learning
 - Diseño de sistemas listos para producción
 - Versionamiento y reproducibilidad en entornos cloud
 
-Enfoque profesional:
-Diseño de sistemas analíticos escalables preparados para implementación empresarial
+Herramientas utilizadas:
+Entornos cloud académicos, Python para procesamiento de datos, integración con bases de datos y pipelines analíticos.
+
+Aplicaciones en negocio:
+- Implementación de sistemas de analítica a gran escala
+- Procesamiento de grandes volúmenes de datos
+- Automatización de pipelines de entrenamiento de modelos
+- Integración de datos multi-fuente
+- Escalabilidad de soluciones de Machine Learning
+- Infraestructura para modelos en producción
