@@ -125,7 +125,4 @@ Extracción y transformación eficiente de datos en bases empresariales reales.
 - Versionamiento y reproducibilidad en entornos cloud
 
 Enfoque profesional:
-Diseño de sistemas analíticos escalables preparados para implementación empresarial.
-
-Primary orientation:
-Applied Machine Learning + Statistical Rigor + Optimization + Cloud Architecture + Business Impact
+Diseño de sistemas analíticos escalables preparados para implementación empresarial
