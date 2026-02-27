@@ -20,7 +20,7 @@ El enfoque está orientado a habilidades de alto impacto económico, aplicables 
 Herramientas utilizadas:
 Git, GitHub, Python, entornos virtuales (Conda/Miniforge), VS Code, Jupyter Notebook.
 
-Aplicaciones en negocio:
+**Aplicaciones en negocio:**
 - Implementación estructurada de modelos predictivos
 - Gestión de proyectos de analítica en banca, retail o industria
 - Coordinación entre equipos técnicos y gerenciales
@@ -47,7 +47,7 @@ Aplicaciones en negocio:
 Herramientas utilizadas:
 Scikit-learn, XGBoost, TensorFlow/Keras, NumPy, Pandas, Matplotlib, Seaborn.
 
-Aplicaciones en negocio:
+**Aplicaciones en negocio:**
 - Modelos de riesgo crediticio
 - Predicción de churn
 - Detección de fraude
@@ -73,7 +73,7 @@ Aplicaciones en negocio:
 Herramientas utilizadas:
 Python (NumPy, SciPy, Statsmodels), Pandas.
 
-Aplicaciones en negocio:
+**Aplicaciones en negocio:**
 - Evaluación de impacto de estrategias comerciales
 - A/B testing en productos digitales
 - Análisis de riesgo financiero
@@ -105,7 +105,7 @@ Aplicaciones en negocio:
 Herramientas utilizadas:
 Matplotlib, Seaborn, Plotly, GeoPandas, Scikit-learn.
 
-Aplicaciones en negocio:
+**Aplicaciones en negocio:**
 - Descubrimiento de oportunidades de cross-selling
 - Análisis de canasta de mercado
 - Segmentación estratégica de clientes
@@ -131,7 +131,7 @@ Aplicaciones en negocio:
 Herramientas utilizadas:
 Python, Pandas, NumPy, NetworkX, OR-Tools.
 
-Aplicaciones en negocio:
+**Aplicaciones en negocio:**
 - Automatización de procesos analíticos
 - Limpieza y transformación de bases masivas
 - Análisis exploratorio estructurado
@@ -153,7 +153,7 @@ Aplicaciones en negocio:
 Herramientas utilizadas:
 Pandas, Statsmodels, Scikit-learn, Matplotlib.
 
-Aplicaciones en negocio:
+**Aplicaciones en negocio:**
 - Pronóstico de ventas
 - Proyección de demanda logística
 - Planeación de inventarios
@@ -177,7 +177,7 @@ Aplicaciones en negocio:
 Herramientas utilizadas:
 SQL (consultas avanzadas en entornos académicos y empresariales).
 
-Aplicaciones en negocio:
+**Aplicaciones en negocio:**
 - Construcción de variables para modelos predictivos
 - Integración de datos transaccionales
 - Análisis de comportamiento de clientes
@@ -200,7 +200,7 @@ Aplicaciones en negocio:
 Herramientas utilizadas:
 Entornos cloud académicos, Python para procesamiento de datos, integración con bases de datos y pipelines analíticos.
 
-Aplicaciones en negocio:
+**Aplicaciones en negocio:**
 - Implementación de sistemas de analítica a gran escala
 - Procesamiento de grandes volúmenes de datos
 - Automatización de pipelines de entrenamiento de modelos
