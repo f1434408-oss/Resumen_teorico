@@ -64,6 +64,7 @@ Toma de decisiones cuantitativa bajo incertidumbre y validación estadística de
 - Análisis espacio-temporal
 - Dashboards interactivos
 - Storytelling estratégico con datos
+- Data mining
 
 Enfoque profesional:
 Comunicación ejecutiva de insights y monitoreo estratégico del desempeño organizacional.
