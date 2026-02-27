@@ -1,178 +1,131 @@
-# 🎓 Executive Technical Curriculum – Data Science, AI & Cloud
+# 🎓 Resumen Integrado de Formación Técnica – Data Science & Cloud Systems
 
-This repository summarizes the most professionally relevant technical competencies acquired through advanced training in Statistics, Machine Learning, Optimization, SQL, Cloud Computing, and Big Data.
+Este repositorio resume las competencias técnicas adquiridas a través de formación avanzada en Ciencia de Datos, Machine Learning, Estadística Aplicada, SQL, Cloud Computing y Big Data.
 
-The focus of this curriculum is on high-impact, economically valuable skills for Data Science, Applied AI, and Decision Systems.
-
----
-
-## 🧠 1. Statistical Inference & Decision Under Uncertainty
-
-Core competencies in quantitative decision-making:
-
-- Probability theory and Bayes Theorem
-- Confidence intervals
-- Hypothesis testing
-- ANOVA
-- Linear Regression (simple and multiple)
-- Logistic Regression
-- Interpretation of coefficients and Odds Ratio
-- Risk quantification and Expected Loss
-
-Application areas:
-- Credit risk modeling
-- Financial forecasting
-- A/B testing
-- Business impact evaluation
+El enfoque de esta formación está orientado a habilidades de alto impacto económico y aplicabilidad en entornos empresariales reales.
 
 ---
 
-## 🤖 2. Machine Learning & Model Selection
+## 1️⃣ Gestión de Proyectos de Análisis de Datos
 
-Professional-level supervised and unsupervised learning:
+- Ciclo de vida completo de proyectos de datos
+- Metodologías ágiles aplicadas a analítica
+- Planificación y estimación de recursos
+- Identificación y mitigación de riesgos
+- Documentación técnica y reproducibilidad
+- Reportes ejecutivos y comunicación con stakeholders
 
-- Advanced data preprocessing
-- Feature engineering
+Enfoque profesional:
+Diseño y gestión estructurada de soluciones analíticas orientadas a producción.
+
+---
+
+## 2️⃣ Machine Learning y Deep Learning
+
+- Preprocesamiento avanzado y feature engineering
+- Modelos de regresión y clasificación
 - Bias-Variance tradeoff
-- Cross-validation (K-Fold)
-- Grid Search
-- Regularization (Ridge, Lasso)
+- Validación cruzada (K-Fold)
+- Grid Search y ajuste de hiperparámetros
+- Regularización (Ridge, Lasso)
+- Árboles de decisión, Random Forest, Gradient Boosting, XGBoost
 - Support Vector Machines (SVM)
-- Decision Trees
-- Random Forest
-- Gradient Boosting
-- XGBoost
-- ROC-AUC & Precision-Recall evaluation
-- Model interpretability techniques
+- Redes neuronales y CNN
+- Transfer Learning y fine-tuning
+- Evaluación de modelos (ROC-AUC, Precision-Recall, RMSE)
 
-Application areas:
-- Risk scoring systems
-- Customer churn prediction
-- Fraud detection
-- Revenue optimization
+Enfoque profesional:
+Construcción de sistemas predictivos para riesgo crediticio, churn, fraude y optimización de ingresos.
 
 ---
 
-## 🧮 3. Decision Optimization & Operations Research
+## 3️⃣ Estadística Aplicada e Inferencia
 
-Mathematical optimization applied to business constraints:
+- Teoría de probabilidad y Teorema de Bayes
+- Intervalos de confianza
+- Pruebas de hipótesis
+- ANOVA
+- Regresión lineal (simple y múltiple)
+- Regresión logística
+- Interpretación de coeficientes y Odds Ratio
+- Cuantificación de riesgo y pérdida esperada
 
-- Linear Programming (LP)
-- Integer & Mixed Integer Programming (IP / MIP)
-- Portfolio optimization
-- Budget allocation under constraints
-- Vehicle Routing Problem (VRP)
-- OR-Tools implementation
-
-Application areas:
-- Capital allocation
-- Logistics optimization
-- Resource planning
-- Revenue maximization under risk constraints
+Enfoque profesional:
+Toma de decisiones cuantitativa bajo incertidumbre y validación estadística de estrategias de negocio.
 
 ---
 
-## 🗄 4. SQL & Data Engineering Foundations
+## 4️⃣ Visualización de Información y Visual Analytics
 
-Advanced database querying and feature construction:
+- Diseño de dashboards basados en KPIs
+- Principios de percepción visual aplicada a datos
+- Visualización de series temporales
+- Visualización geoespacial (mapas coropléticos, mapas de calor)
+- Análisis espacio-temporal
+- Dashboards interactivos
+- Storytelling estratégico con datos
 
-- Complex JOIN operations
-- Subqueries
+Enfoque profesional:
+Comunicación ejecutiva de insights y monitoreo estratégico del desempeño organizacional.
+
+---
+
+## 5️⃣ Programación y Análisis Exploratorio de Datos (EDA)
+
+- Programación estructurada en Python
+- Diseño modular y reutilización de código
+- Manipulación avanzada con Pandas
+- Álgebra lineal con NumPy
+- Reglas de asociación (Apriori)
+- Fundamentos de NLP
+- Análisis básico de grafos
+- Optimización con OR-Tools (LP, MIP, VRP)
+
+Enfoque profesional:
+Construcción de pipelines analíticos escalables y sistemas de optimización bajo restricciones reales.
+
+---
+
+## 6️⃣ Análisis de Series Temporales
+
+- Descomposición de tendencia y estacionalidad
+- Modelos de pronóstico
+- Comparación intertemporal
+- Análisis de evolución de KPIs
+- Técnicas de forecasting aplicadas a demanda y ventas
+
+Enfoque profesional:
+Pronóstico de demanda, proyección de ingresos y monitoreo temporal de indicadores estratégicos.
+
+---
+
+## 7️⃣ SQL y Sistemas Relacionales
+
+- JOINs complejos
+- Subconsultas
 - Window functions
-- Aggregations and grouped analytics
-- Query optimization
-- Feature engineering in SQL
-- Relational data modeling
-- ETL conceptual design
+- Agregaciones y análisis agrupado
+- Optimización de consultas
+- Construcción de variables (feature engineering) en SQL
+- Modelado relacional de datos
 
-Application areas:
-- Credit scoring pipelines
-- Customer behavior analytics
-- Data warehouse feature extraction
-- Financial data processing
+Enfoque profesional:
+Extracción y transformación eficiente de datos en bases empresariales reales.
 
 ---
 
-## ☁️ 5. Cloud Computing & Big Data Architecture
+## 8️⃣ Cloud Computing y Big Data
 
-Scalable and production-oriented data systems:
+- Principios de arquitectura de datos en la nube
+- Data Lake vs Data Warehouse
+- Procesamiento distribuido
+- Pipelines escalables de datos
+- Workflows modulares de Machine Learning
+- Diseño de sistemas listos para producción
+- Versionamiento y reproducibilidad en entornos cloud
 
-- Cloud data architecture principles
-- Data Lakes vs Data Warehouses
-- Distributed data processing
-- Scalable pipelines
-- Modular ML workflows
-- Model lifecycle concepts
-- Reproducibility and version control
-- Production-ready system design
-
-Application areas:
-- Cloud-based ML systems
-- Large-scale analytics
-- Automated model deployment pipelines
-- Enterprise data infrastructure
-
----
-
-## 📊 6. Geospatial & Spatio-Temporal Analytics
-
-Advanced spatial and temporal data analysis:
-
-- Choropleth maps
-- Spatial clustering
-- Territorial segmentation
-- Time series analysis
-- Spatio-temporal integration
-
-Application areas:
-- Regional performance analysis
-- Logistics optimization
-- Market expansion strategy
-- Demand forecasting by territory
-
----
-
-## 🧠 7. Deep Learning & Applied AI
-
-Neural network-based predictive systems:
-
-- Neural Networks fundamentals
-- Convolutional Neural Networks (CNN)
-- Transfer Learning
-- Fine-tuning pretrained models
-- NLP fundamentals
-- Large Language Models (LLM) prompting
-
-Application areas:
-- Image classification
-- Industrial defect detection
-- Text classification
-- Intelligent assistants
-
----
-
-## 🏗 8. Engineering & Production Mindset
-
-Professional development practices:
-
-- Git version control
-- Modular project structuring
-- Reproducible pipelines
-- Executive dashboarding
-- Business-oriented reporting
-- Cloud-ready architecture design
-
----
-
-## 🎯 Professional Focus
-
-This integrated training supports the development of:
-
-- Machine Learning Systems
-- Risk & Decision Modeling
-- Revenue Optimization Engines
-- Cloud-Ready Analytical Pipelines
-- Production-Oriented AI Solutions
+Enfoque profesional:
+Diseño de sistemas analíticos escalables preparados para implementación empresarial.
 
 Primary orientation:
 Applied Machine Learning + Statistical Rigor + Optimization + Cloud Architecture + Business Impact
